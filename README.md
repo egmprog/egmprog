@@ -2,7 +2,7 @@
 --------------------
 #### Desarrollo aplicaciones web especialmente en PHP + MYSQL, Laravel,  HTML + CSS.
 -------------------
-Mi formación académica cruza diversas áreas, desde las humanidades (como, filosofía) hasta las ciencias (matemática y física). El interés por el desarrollo de tecnologías estuvo mayormente centrado en aplicaciones para el campo de la educación, instalando plataformas (LMS), desarrollando contenidos hipermediales y montando entornos diversos para atender necesidades de ese sector.
+##### Mi formación académica cruza diversas áreas, desde las humanidades (como, filosofía) hasta las ciencias (matemática y física). El interés por el desarrollo de tecnologías estuvo mayormente centrado en aplicaciones para el campo de la educación, instalando plataformas (LMS), desarrollando contenidos hipermediales y montando entornos diversos para atender necesidades de ese sector.
 Actualmente me encuentro trabajando en proyectos para entidades (gestión de personas y de documentos), para grupos de trabajo colectivos (estudio de textos y gestión del proceso de revisión) y también en el ámbito comercial (páginas web con interacción con el cliente).
 ------------------
 📫  Más detalles y comunicación en:
